@@ -2,7 +2,7 @@
   "name": "customer_support",
   "version": "1.0.0",
   "description": "take home exercise for Greenhouse",
-  "main": "index.js",
+  "main": "dist/index.html",
   "scripts": {},
   "dependencies": {
     "gulp": "^3.9.1",

@@ -5,7 +5,7 @@ const sourcemaps = require('gulp-sourcemaps');
 
 gulp.task('sass-build', () => {
 	return gulp
-		.src('sass/*.scss')
+		.src('src/*.scss')
 		.pipe(sourcemaps.init())
 		.pipe(sass({ outputStyle: 'expanded' })
 			.on('error', sass.logError))

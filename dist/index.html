@@ -224,6 +224,12 @@
 					$('#mobilemenu').slideToggle(300, 'linear');
 				});
 			});
+
+			$(window).on('resize', function() {
+				if ($(window).width > 785) {
+					$('#mobilemenu').hide();
+				}
+			})
 		</script>
 	</body>
 </html>

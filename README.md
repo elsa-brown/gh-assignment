@@ -3,7 +3,10 @@
 Thank you for taking the time to review this submission.
 
 ## Background:
-This project uses `gulp` to compile .scss, `normalize.css` to standardize browser inconsistences, and `gulp-autoprefixer` to add CSS vendor prefixes to its styles.
+This project uses:
+  * `gulp` to compile `.scss`
+  * `normalize.css` to standardize browser inconsistences
+  * `gulp-autoprefixer` to add CSS vendor prefixes
 
 ## Instructions:
 * Install dependencies: `gulp` `gulp-sass` `gulp-autoprefixer` 

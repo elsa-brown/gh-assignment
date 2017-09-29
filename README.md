@@ -4,10 +4,9 @@ Thank you for taking the time to review this submission.
 
 ## Instructions:
 
-* Install dependencies using the package manager of your choice
-* Dependencies: `gulp` `gulp-sass` `gulp-autoprefixer` `gulp-sourcemaps` 
-* Run `gulp` from command line
-* Open the index.html file in browser
+* Install the following dependencies: `gulp` `gulp-sass` `gulp-autoprefixer` 
+* Run command `gulp sass-build` to compile .scss 
+* Open `index.html`
 
 ## File Structure Overview:
 ```
@@ -15,7 +14,7 @@ Thank you for taking the time to review this submission.
 │   ├── assets
 │		├── css
 │   │   ├── style.css
-│   │   └── main.css.map
+│   │   ├── main.css.map
 │		├── fonts
 │   └── index.html
 ├── src

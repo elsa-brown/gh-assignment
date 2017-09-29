@@ -14,7 +14,7 @@ This project uses:
 2. Run command `gulp sass-build` to compile
 3. Open `index.html`
 
-### File Structure At-A-Glance
+### File Structure Overview (non-exhaustive)
 ```
 ├── dist
 │   ├── assets
@@ -23,10 +23,10 @@ This project uses:
 │   │   └── main.css.map
 │   ├── fonts
 │   └── index.html
-├── gulpfile.js
-├── package.json
 ├── src
 │    └── style.css
+├── gulpfile.js
+├── package.json
 └── README.md   
 ```
 

@@ -3,11 +3,6 @@
 
 Thank you for taking the time to review this submission.
 
-## Instructions to view
-1. Install dependencies: `gulp` `gulp-sass` `gulp-autoprefixer` 
-2. Run command `gulp sass-build` to compile
-3. Open `index.html`
-
 ## Background
 This project uses:
   * `gulp` to compile `.scss`
@@ -19,8 +14,7 @@ This project uses:
 ├── dist
 │   ├── assets
 │   ├── css
-│   │   ├── main.css
-│   │   └── main.css.map
+│   │   └── main.css
 │   ├── fonts
 │   └── index.html
 ├── src
@@ -29,6 +23,11 @@ This project uses:
 ├── package.json
 └── README.md   
 ```
+
+## Instructions to view
+1. Install dependencies: `gulp` `gulp-sass` `gulp-autoprefixer` 
+2. Run command `gulp sass-build` to compile
+3. Open `index.html`
 
 ## Notes
 Known bug;

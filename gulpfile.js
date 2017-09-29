@@ -11,7 +11,7 @@ gulp.task('sass-build', () => {
 			.on('error', sass.logError))
 		.pipe(autoprefixer({ browsers: ['last 2 versions'] }))
 		.pipe(sourcemaps.write('./'))
-		.pipe(gulp.dest('./css/'))
+		.pipe(gulp.dest('./dist/css'))
 });
 
 gulp.task('sass-watch', ['sass-build'], () => {

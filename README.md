@@ -9,7 +9,13 @@ This project uses:
   * `normalize.css` to standardize browser inconsistences
   * `gulp-autoprefixer` to add CSS vendor prefixes
 
-### File Structure Overview (non-exhaustive)
+## Instructions to view
+1. Install dependencies: `gulp` `gulp-sass` `gulp-autoprefixer` 
+2. Run command `gulp sass-build` to compile
+3. Open `index.html`
+
+
+## File Structure Overview (non-exhaustive)
 ```
 ├── dist
 │   ├── assets
@@ -23,11 +29,6 @@ This project uses:
 ├── package.json
 └── README.md   
 ```
-
-## Instructions to view
-1. Install dependencies: `gulp` `gulp-sass` `gulp-autoprefixer` 
-2. Run command `gulp sass-build` to compile
-3. Open `index.html`
 
 ## Notes
 Known bug;

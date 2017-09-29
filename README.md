@@ -1,11 +1,13 @@
-# Customer Support Page: Take Home Exercise - Completed
+# Submission - Customer Support Page: Take Home Exercise - 9/29/17
 
 Thank you for taking the time to review this submission.
 
-## Instructions:
+## Background:
+This project uses `gulp` to compile .scss, `normalize.css` to standardize browser inconsistences, and `gulp-autoprefixer` to add CSS vendor prefixes to its styles.
 
-* Install the following dependencies: `gulp` `gulp-sass` `gulp-autoprefixer` 
-* Run command `gulp sass-build` to compile .scss 
+## Instructions:
+* Install dependencies: `gulp` `gulp-sass` `gulp-autoprefixer` 
+* Run command `gulp sass-build`
 * Open `index.html`
 
 ## File Structure Overview:

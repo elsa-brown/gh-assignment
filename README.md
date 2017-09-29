@@ -1,4 +1,4 @@
-### Submission 9/29/17
+### Submission on 9/29/17
 # Customer Support Page: Take Home Exercise
 
 Thank you for taking the time to review this submission.

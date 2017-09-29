@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'Akkurat Std';
+	src: url('fonts/lineto-akkurat-regular-s.woff') format('woff'), url('fonts/lineto-akkurat-regular-s.eot') format('eot'), url('fonts/lineto-akkurat-regular-s.svg') format('svg'), url('fonts/lineto-akkurat-regular-s.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Akkurat Std Light';
+	src: url('fonts/lineto-akkurat-light-s.woff') format('woff'), url('fonts/lineto-akkurat-light-s.eot') format('eot'), url('fonts/lineto-akkurat-light-s.svg') format('svg'), url('fonts/lineto-akkurat-light-s.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+$font-stack: 'Akkurat Std', sans-serif;
+$font-stack-light: 'Akkurat Std Light', sans-serif;

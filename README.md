@@ -6,7 +6,7 @@ Thank you for taking the time to review this submission.
 ## Instructions
 1. Install dependencies: `gulp` `gulp-sass` `gulp-autoprefixer` 
 2. Run command `gulp sass-build` to compile
-3. Open `index.html`
+3. Open `dist/index.html`
 
 ## Background
 This project uses:
@@ -28,6 +28,3 @@ This project uses:
 ├── package.json
 └── README.md   
 ```
-
-## Notes
-Known bug;

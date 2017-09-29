@@ -1,4 +1,4 @@
-# Submission, 9/29/17
+### Submission, 9/29/17
 # Customer Support Page: Take Home Exercise
 
 Thank you for taking the time to review this submission.
@@ -10,9 +10,9 @@ This project uses:
   * `gulp-autoprefixer` to add CSS vendor prefixes
 
 ## Instructions to view
-* Install dependencies: `gulp` `gulp-sass` `gulp-autoprefixer` 
-* Run command `gulp sass-build` to compile
-* Open `index.html`
+1. Install dependencies: `gulp` `gulp-sass` `gulp-autoprefixer` 
+2. Run command `gulp sass-build` to compile
+3. Open `index.html`
 
 ## Notes
 Known bug;
